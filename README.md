@@ -3,6 +3,6 @@
 
 Þróunarumhverfið mitt er oftar en ekki vim á remote vélum, en wsl+vscode með vim bindings er líklega framtíðin. Ég kann vel að meta opin hugbúnað, en er ekki bundinn við það af prinsipp ástæðum.
 
-Ég starfa sem stendur hjá [Premis](https://www.premis.is/) sem forritari og hef gert það frá 2010. Ég hef komið að uppbyggingu fjölda sérlausna og samþættingu kerfa, mitt markmið hefur alltaf verið að létta öllum lífið með einföldum lausnum á flóknum vandamálum.
+Ég starfa sem stendur hjá [OK](https://www.ok.is/) eftir sameiningu við [PREMIS](https://www.premis.is/) sem forritari. Ég hef komið að uppbyggingu fjölda sérlausna og samþættingu kerfa, mitt markmið hefur alltaf verið að létta öllum lífið með einföldum lausnum á flóknum vandamálum.
 
 Ef þú ert með einhverjar spurningar eða pælingar þá er alltaf í boði að senda mér línu á [gussi@gussi.is](mailto:gussi@gussi.is).
